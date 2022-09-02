@@ -19,6 +19,7 @@ Vectors:
 - knots
 - material technology
 - medicine
+- megaliths
 - messenger service
 - metals
 - mining technology
