@@ -2,14 +2,14 @@
 
 Vectors:
 
-- mummification
 - architecture
-- spoken language
-- written language
-- medicine
-- origin myths
 - clothing design
 - food recipes
+- medicine
+- mummification
+- origin myths
+- spoken language
+- written language
 
 ### Links
 
