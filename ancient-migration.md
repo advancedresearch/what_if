@@ -8,6 +8,7 @@ Vectors:
 - domesticated animals
 - fire technology
 - food recipes
+- knots
 - material technology
 - medicine
 - mummification
