@@ -4,6 +4,7 @@ Vectors:
 
 - agricultural seeds
 - architecture
+- art
 - astronomy
 - beverages
 - boats
@@ -25,6 +26,7 @@ Vectors:
 - origin myths
 - rituals
 - sacred trees
+- sculptures
 - spoken language
 - symbols
 - units of measurement
