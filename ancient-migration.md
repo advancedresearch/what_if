@@ -9,6 +9,7 @@ Vectors:
 - medicine
 - origin myths
 - clothing design
+- food recipes
 
 ### Links
 
