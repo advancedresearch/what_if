@@ -6,6 +6,7 @@ Vectors:
 - clothing design
 - domesticated animals
 - food recipes
+- material technology
 - medicine
 - mummification
 - origin myths
