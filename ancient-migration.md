@@ -6,6 +6,8 @@ Vectors:
 - architecture
 - spoken language
 - written language
+- medicine
+- origin myths
 
 ### Links
 
