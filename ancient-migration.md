@@ -31,7 +31,11 @@ Vectors:
 - weapons
 - written language
 
-### Links
+### Domesticated animals
+
+- [List of domesticated animals](https://en.wikipedia.org/wiki/List_of_domesticated_animals)
+
+### Mumification
 
 - [Ancient Egyptian funerary practices](https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_practices)
 - [Chinchorro mummies](https://en.wikipedia.org/wiki/Chinchorro_mummies)
