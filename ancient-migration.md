@@ -30,3 +30,4 @@ Vectors:
 ### Links
 
 - [Chinchorro mummies](https://en.wikipedia.org/wiki/Chinchorro_mummies)
+- [Torajan people](https://en.wikipedia.org/wiki/Torajan_people)
