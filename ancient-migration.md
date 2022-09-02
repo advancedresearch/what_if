@@ -26,6 +26,7 @@ Vectors:
 - rituals
 - sacred trees
 - spoken language
+- symbols
 - units of measurement
 - weapons
 - written language
