@@ -33,6 +33,7 @@ Vectors:
 - spoken language
 - symbols
 - units of measurement
+- volcanos
 - water wells
 - weapons
 - written language
