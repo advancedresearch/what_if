@@ -6,6 +6,7 @@ Vectors:
 - architecture
 - clothing design
 - domesticated animals
+- fire technology
 - food recipes
 - material technology
 - medicine
