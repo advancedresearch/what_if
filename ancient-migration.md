@@ -6,6 +6,7 @@ Vectors:
 - architecture
 - astronomy
 - beverages
+- boats
 - children stories
 - clothing design
 - domesticated animals
