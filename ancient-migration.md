@@ -5,6 +5,7 @@ Vectors:
 - agricultural seeds
 - architecture
 - astronomy
+- beverages
 - children stories
 - clothing design
 - domesticated animals
