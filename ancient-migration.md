@@ -20,6 +20,7 @@ Vectors:
 - messenger service
 - mummification
 - origin myths
+- rituals
 - sacred trees
 - spoken language
 - weapons
