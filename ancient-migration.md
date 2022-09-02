@@ -4,6 +4,7 @@ Vectors:
 
 - agricultural seeds
 - architecture
+- astronomy
 - clothing design
 - domesticated animals
 - fire technology
