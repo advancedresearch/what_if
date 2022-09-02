@@ -5,10 +5,14 @@ Vectors:
 - agricultural seeds
 - architecture
 - astronomy
+- children stories
 - clothing design
 - domesticated animals
+- ethics
 - fire technology
 - food recipes
+- geometry
+- golden ratio
 - knots
 - material technology
 - medicine
