@@ -8,6 +8,7 @@ Vectors:
 - written language
 - medicine
 - origin myths
+- clothing design
 
 ### Links
 
