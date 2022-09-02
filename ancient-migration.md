@@ -19,6 +19,7 @@ Vectors:
 - material technology
 - medicine
 - messenger service
+- mining technology
 - mummification
 - origin myths
 - rituals
