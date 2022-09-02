@@ -2,6 +2,7 @@
 
 Vectors:
 
+- agricultural seeds
 - architecture
 - clothing design
 - domesticated animals
