@@ -13,6 +13,7 @@ Vectors:
 - mummification
 - origin myths
 - spoken language
+- weapons
 - written language
 
 ### Links
