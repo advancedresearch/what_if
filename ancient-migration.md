@@ -4,6 +4,7 @@ Vectors:
 
 - architecture
 - clothing design
+- domesticated animals
 - food recipes
 - medicine
 - mummification
