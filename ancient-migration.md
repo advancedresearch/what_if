@@ -8,6 +8,7 @@ Vectors:
 - astronomy
 - beverages
 - boats
+- burial artifacts
 - children stories
 - clothing design
 - domesticated animals
