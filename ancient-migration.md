@@ -39,6 +39,16 @@ Vectors:
 - weapons
 - written language
 
+### Burian artifacts
+
+List of metals found in burial artifacts in ancient civilisations:
+
+- Mercury: Mexico (150-200 CE)
+
+Links:
+
+- [Temple of the Feathered Serpent, Teotihuacan](https://en.wikipedia.org/wiki/Temple_of_the_Feathered_Serpent,_Teotihuacan)
+
 ### Domesticated animals
 
 List of domesticated animals in ancient civilisations:
