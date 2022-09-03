@@ -78,7 +78,7 @@ Links:
 
 ### Mumification
 
-List of mummification method:
+List of mummification methods:
 
 - Internally prepared mummies: Egyptian Pharaohs
 - Reconstructed mummies: the Chinchorro
