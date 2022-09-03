@@ -43,10 +43,11 @@ Vectors:
 
 List of metals found in burial artifacts in ancient civilisations:
 
-- Mercury: China (210 BCE), Mexico (150-200 CE)
+- Mercury: Egypt (1500 BCE), (China (210 BCE), Mexico (150-200 CE)
 
 Links:
 
+- [Cinnabar](https://en.wikipedia.org/wiki/Cinnabar)
 - [Qin Shi Huang](https://en.wikipedia.org/wiki/Qin_Shi_Huang)
 - [Temple of the Feathered Serpent, Teotihuacan](https://en.wikipedia.org/wiki/Temple_of_the_Feathered_Serpent,_Teotihuacan)
 
