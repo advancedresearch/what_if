@@ -66,6 +66,7 @@ List of domesticated animals in ancient civilisations:
 
 Hypotheses:
 
+- Domesticated dromedaries transferred by sea between Arabia and the Horn of Africa (4000 BCE)
 - Knowledge of domestication of ducks in China (4000 BCE) transferred to domestication of goose in Egypt (3000 BCE)
 
 Links:
