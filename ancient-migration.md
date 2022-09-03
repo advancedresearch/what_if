@@ -78,6 +78,13 @@ Links:
 
 ### Mumification
 
+List of mummification method:
+
+- Internally prepared mummies: Egyptian Pharaohs
+- Reconstructed mummies: the Chinchorro
+
+Links:
+
 - [Ancient Egyptian funerary practices](https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_practices)
 - [Chinchorro mummies](https://en.wikipedia.org/wiki/Chinchorro_mummies)
 - [Torajan people](https://en.wikipedia.org/wiki/Torajan_people)
