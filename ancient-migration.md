@@ -9,6 +9,7 @@ Vectors:
 - beverages
 - boats
 - burial artifacts
+- ceramic
 - children stories
 - clothing design
 - domesticated animals
