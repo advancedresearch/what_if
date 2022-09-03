@@ -53,6 +53,7 @@ List of domesticated animals in ancient civilisations:
 - Goat: Iran (10000 BCE)
 - Goose: Egypt (3000 BCE)
 - Guinea pig: Peru (5000 BCE)
+- Guineafowl: West Africa (2400 BCE)
 - Honey bee: Egypt (2600 BCE)
 - Horse: Kazakhstan (3500 BCE)
 - Llama: Peru, Bolivia (2400 BCE)
