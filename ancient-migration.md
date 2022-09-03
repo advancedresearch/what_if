@@ -40,6 +40,8 @@ Vectors:
 
 ### Domesticated animals
 
+List of domesticated animals in ancient civilisations:
+
 - Cat: Near East (8000-7500 BCE)
 - Chicken: Indian, Southeast Asia (6000 BCE)
 - Donkey: Nubia (5000 BCE)
@@ -57,6 +59,11 @@ Vectors:
 - Sheep: Anatolia, Iran (9000-8500 BCE)
 - Zebu: India (8000 BCE)
 - Water buffalo: India, China, the Philippines (4000 BCE)
+- Yak: Tibet, Nepal (2500 BCE)
+
+Hypotheses:
+
+- Knowledge of domestication of ducks in China (4000 BCE) transferred to domestication of goose in Egypt (3000 BCE)
 
 Links:
 
