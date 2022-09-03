@@ -42,6 +42,8 @@ Vectors:
 
 List of domesticated animals in ancient civilisations:
 
+- Alpaca: Peru, Bolivia (2400 BCE)
+- Bactrian camel: Central Asia (2500 BCE)
 - Cat: Near East (8000-7500 BCE)
 - Chicken: Indian, Southeast Asia (6000 BCE)
 - Donkey: Nubia (5000 BCE)
@@ -53,6 +55,7 @@ List of domesticated animals in ancient civilisations:
 - Guinea pig: Peru (5000 BCE)
 - Honey bee: Egypt (2600 BCE)
 - Horse: Kazakhstan (3500 BCE)
+- Llama: Peru, Bolivia (2400 BCE)
 - Pig: China, Western Asia (9000 BCE)
 - Pigeon: the Mediterranean Basin (3000 BCE)
 - Silkworm: China (3000 BCE)
