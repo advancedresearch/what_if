@@ -53,6 +53,8 @@ Vectors:
 - Zebu: India (8000 BCE)
 - Water buffalo: India, China, the Philippines (4000 BCE)
 
+Links:
+
 - [List of domesticated animals](https://en.wikipedia.org/wiki/List_of_domesticated_animals)
 
 ### Mumification
