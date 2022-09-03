@@ -40,6 +40,19 @@ Vectors:
 
 ### Domesticated animals
 
+- Cat: Near East (8000-7500 BCE)
+- Chicken: Indian, Southeast Asia (6000 BCE)
+- Donkey: Nubia (5000 BCE)
+- Dromedary: Arabia, the Horn of Africa (4000 BCE)
+- Duck: China (4000 BCE)
+- European cattle: China, Western Asia (8000 BCE)
+- Goat: Iran (10000 BCE)
+- Guinea pig: Peru (5000 BCE)
+- Pig: China, Western Asia (9000 BCE)
+- Sheep: Anatolia, Iran (9000-8500 BCE)
+- Zebu: India (8000 BCE)
+- Water buffalo: India, China, the Philippines (4000 BCE)
+
 - [List of domesticated animals](https://en.wikipedia.org/wiki/List_of_domesticated_animals)
 
 ### Mumification
